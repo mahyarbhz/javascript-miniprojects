@@ -1,2 +1,2 @@
-# JS-nowruz-holiday
+# javascript-miniprojects
 I want to practice more javascript 😉
